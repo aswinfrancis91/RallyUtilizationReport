@@ -1,0 +1,28 @@
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe.config
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.pdb
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.dll
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.xml
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CopyComplete
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.exe
+D:\OneDrive\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.pdb
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe.config
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.pdb
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.dll
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.xml
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CoreCompileInputs.cache
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CopyComplete
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.exe
+C:\Users\afrancis\Desktop\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.pdb
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe.config
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.exe
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\RallyUtilization.pdb
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.dll
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\bin\Release\Rally.RestApi.xml
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CoreCompileInputs.cache
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.csproj.CopyComplete
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.exe
+D:\OneDrive - Radial\Personal Projects\SourceCodes\RallyUtilization\RallyUtilization\obj\Release\RallyUtilization.pdb
